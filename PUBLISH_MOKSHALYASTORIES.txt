@@ -1,0 +1,22 @@
+MOKSHALYASTORIES.COM — PUBLISHING NOTE
+
+The website is prepared for the custom domain:
+mokshalyastories.com
+
+The package contains a CNAME file with that exact domain.
+
+To make the domain live, the domain must first be registered/owned and then connected to a hosting service such as GitHub Pages or Cloudflare Pages. The domain registration cannot be completed from the website files alone.
+
+For GitHub Pages:
+1. Upload these files to a GitHub repository.
+2. In Settings > Pages, configure the publishing source.
+3. Add mokshalyastories.com under Custom domain.
+4. At the domain registrar, enter the DNS records GitHub provides.
+5. Enable HTTPS after DNS is active.
+
+For Cloudflare Pages:
+1. Create a Pages project and deploy these files.
+2. Open Custom domains > Set up a domain.
+3. Enter mokshalyastories.com and follow the DNS instructions.
+
+Important: because the site is for a child, avoid putting a phone number, home address, or other private information on the public website.
